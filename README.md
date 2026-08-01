@@ -13,13 +13,13 @@
 <a href="https://www.linkedin.com/in/kiarashhabibi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kiarash.h.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/kiarash86">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+<a href="https://profile.hackthebox.com/profile/019fbd8d-6fc9-70c4-a77a-c1efc4f334bc">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
@@ -80,7 +80,7 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 - Network Security Fundamentals
 
 <p align="center">
-<img src="https://www.hackthebox.eu/badge/image/YOUR_HTB_ID" height="60"/>
+<img src="https://www.hackthebox.eu/badge/image/@dreamListener" height="60"/>
 </p>
 
 > Replace `YOUR_HTB_ID` in the badge link above with your HackTheBox profile ID once you have public activity to show.
@@ -140,7 +140,7 @@ Coming soon...
 
 <a href="https://www.linkedin.com/in/kiarashhabibi">LinkedIn</a>
 •
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+<a href="mailto:kiarash.h.dev@gmail.com">Email</a>
 •
 <a href="https://github.com/kiarash86">GitHub</a>
 
