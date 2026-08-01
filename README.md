@@ -113,6 +113,12 @@ Coming soon...
 
 ---
 
+---
+
+<p align="center">
+<img src="./assets/terminal.svg" width="100%" alt="animated terminal"/>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
@@ -121,7 +127,7 @@ Coming soon...
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kiarash86&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=kiarash86&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 <p align="center">
