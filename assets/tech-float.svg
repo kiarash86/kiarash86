@@ -1,0 +1,53 @@
+<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="700" height="90"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip3)" font-family="Consolas, Menlo, monospace" font-size="13" font-weight="600">
+
+    <g transform="translate(20,35)">
+      <rect x="0" y="0" width="70" height="32" rx="8" fill="#00ADD8" opacity="0.15" stroke="#00ADD8" stroke-width="1"/>
+      <text x="35" y="21" text-anchor="middle" fill="#00ADD8">Go</text>
+      <animateTransform attributeName="transform" type="translate" values="20,35; 20,27; 20,35" dur="2.4s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+    <g transform="translate(105,35)">
+      <rect x="0" y="0" width="90" height="32" rx="8" fill="#FCC624" opacity="0.15" stroke="#FCC624" stroke-width="1"/>
+      <text x="45" y="21" text-anchor="middle" fill="#FCC624">Linux</text>
+      <animateTransform attributeName="transform" type="translate" values="105,35; 105,27; 105,35" dur="2.8s" begin="0.3s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+    <g transform="translate(210,35)">
+      <rect x="0" y="0" width="90" height="32" rx="8" fill="#2496ED" opacity="0.15" stroke="#2496ED" stroke-width="1"/>
+      <text x="45" y="21" text-anchor="middle" fill="#2496ED">Docker</text>
+      <animateTransform attributeName="transform" type="translate" values="210,35; 210,27; 210,35" dur="2.2s" begin="0.6s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+    <g transform="translate(315,35)">
+      <rect x="0" y="0" width="110" height="32" rx="8" fill="#4169E1" opacity="0.15" stroke="#4169E1" stroke-width="1"/>
+      <text x="55" y="21" text-anchor="middle" fill="#4169E1">Postgres</text>
+      <animateTransform attributeName="transform" type="translate" values="315,35; 315,27; 315,35" dur="2.6s" begin="0.9s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+    <g transform="translate(440,35)">
+      <rect x="0" y="0" width="90" height="32" rx="8" fill="#009639" opacity="0.15" stroke="#009639" stroke-width="1"/>
+      <text x="45" y="21" text-anchor="middle" fill="#009639">Nginx</text>
+      <animateTransform attributeName="transform" type="translate" values="440,35; 440,27; 440,35" dur="3.0s" begin="0.2s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+    <g transform="translate(545,35)">
+      <rect x="0" y="0" width="70" height="32" rx="8" fill="#F05032" opacity="0.15" stroke="#F05032" stroke-width="1"/>
+      <text x="35" y="21" text-anchor="middle" fill="#F05032">Git</text>
+      <animateTransform attributeName="transform" type="translate" values="545,35; 545,27; 545,35" dur="2.5s" begin="0.5s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+    <g transform="translate(630,35)">
+      <rect x="0" y="0" width="60" height="32" rx="8" fill="#00599C" opacity="0.15" stroke="#00599C" stroke-width="1"/>
+      <text x="30" y="21" text-anchor="middle" fill="#00599C">C++</text>
+      <animateTransform attributeName="transform" type="translate" values="630,35; 630,27; 630,35" dur="2.9s" begin="0.8s" repeatCount="indefinite" additive="sum"/>
+    </g>
+
+  </g>
+</svg>
