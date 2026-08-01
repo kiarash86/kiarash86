@@ -52,34 +52,22 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Primary**
 
-**Languages & Runtime**
-
-<img src="https://skillicons.dev/icons?i=go,cpp"/>
-
-**Databases & Infra**
-
-<img src="https://skillicons.dev/icons?i=linux,postgres,docker,nginx"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Tools**
-
+<p>
+<img src="https://skillicons.dev/icons?i=go"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
 <img src="https://skillicons.dev/icons?i=git"/>
+</p>
 
-**Security**
+**Secondary**
 
-<img src="https://img.shields.io/badge/Nmap-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-2C5364?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=nginx"/>
+</p>
 
 ---
 
