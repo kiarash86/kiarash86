@@ -1,0 +1,61 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F5A0" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#00F5A0" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="800" height="200" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="800" height="200" fill="#0D1117"/>
+
+    <g font-family="Consolas, Menlo, monospace" font-size="14" fill="url(#fade)">
+      <text x="15" y="0"><animate attributeName="y" values="-20;220" dur="3.2s" repeatCount="indefinite" begin="0s"/>01</text>
+      <text x="55" y="0"><animate attributeName="y" values="-20;220" dur="2.6s" repeatCount="indefinite" begin="0.4s"/>go</text>
+      <text x="95" y="0"><animate attributeName="y" values="-20;220" dur="3.8s" repeatCount="indefinite" begin="0.8s"/>sh</text>
+      <text x="135" y="0"><animate attributeName="y" values="-20;220" dur="2.9s" repeatCount="indefinite" begin="0.2s"/>curl</text>
+      <text x="195" y="0"><animate attributeName="y" values="-20;220" dur="3.4s" repeatCount="indefinite" begin="1.1s"/>0x1F</text>
+      <text x="255" y="0"><animate attributeName="y" values="-20;220" dur="2.7s" repeatCount="indefinite" begin="0.6s"/>SYN</text>
+      <text x="305" y="0"><animate attributeName="y" values="-20;220" dur="3.6s" repeatCount="indefinite" begin="1.4s"/>root</text>
+      <text x="365" y="0"><animate attributeName="y" values="-20;220" dur="3.0s" repeatCount="indefinite" begin="0.3s"/>bash</text>
+      <text x="425" y="0"><animate attributeName="y" values="-20;220" dur="2.8s" repeatCount="indefinite" begin="0.9s"/>tcp</text>
+      <text x="475" y="0"><animate attributeName="y" values="-20;220" dur="3.5s" repeatCount="indefinite" begin="0.1s"/>443</text>
+      <text x="525" y="0"><animate attributeName="y" values="-20;220" dur="2.5s" repeatCount="indefinite" begin="1.2s"/>OK</text>
+      <text x="565" y="0"><animate attributeName="y" values="-20;220" dur="3.3s" repeatCount="indefinite" begin="0.5s"/>git</text>
+      <text x="615" y="0"><animate attributeName="y" values="-20;220" dur="2.9s" repeatCount="indefinite" begin="1.0s"/>200</text>
+      <text x="665" y="0"><animate attributeName="y" values="-20;220" dur="3.7s" repeatCount="indefinite" begin="0.7s"/>sudo</text>
+      <text x="725" y="0"><animate attributeName="y" values="-20;220" dur="2.6s" repeatCount="indefinite" begin="1.3s"/>10</text>
+      <text x="765" y="0"><animate attributeName="y" values="-20;220" dur="3.1s" repeatCount="indefinite" begin="0.4s"/>nc</text>
+    </g>
+
+    <rect x="0" y="0" width="800" height="200" fill="#0D1117" opacity="0.55"/>
+
+    <g font-family="Consolas, Menlo, monospace" font-size="18">
+      <circle cx="24" cy="24" r="6" fill="#FF5F56"/>
+      <circle cx="46" cy="24" r="6" fill="#FFBD2E"/>
+      <circle cx="68" cy="24" r="6" fill="#27C93F"/>
+
+      <text x="30" y="80" fill="#00F5A0">$ whoami</text>
+      <text x="30" y="80" fill="#00F5A0" opacity="0">
+        <animate attributeName="opacity" values="0;0;1" dur="6s" keyTimes="0;0.01;0.02" repeatCount="indefinite"/>
+      </text>
+
+      <text x="30" y="110" fill="#FFFFFF">
+        kiarash86
+        <animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.6s" fill="freeze"/>
+      </text>
+
+      <text x="30" y="140" fill="#8FE9D0">
+        backend developer // go // security
+      </text>
+
+      <rect x="30" y="150" width="10" height="18" fill="#00F5A0">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
