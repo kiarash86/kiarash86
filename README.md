@@ -52,21 +52,8 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 
 ## Tech Stack
 
-**Primary**
-
-<p>
-<img src="https://skillicons.dev/icons?i=go"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-</p>
-
-**Secondary**
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=nginx"/>
+<p align="center">
+<img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — Go, Linux, Git, C++, Docker, Postgres, Networking"/>
 </p>
 
 ---
@@ -110,8 +97,6 @@ Coming soon...
 - Bug Bounty
 - Linux Internals
 - Web Application Security
-
----
 
 ---
 
