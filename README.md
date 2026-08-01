@@ -1,56 +1,155 @@
-# Hi, I'm Kiarash Habibi 👋
+<div align="center">
 
-Computer Engineering student focused on C++ and Go development.
+<img src="./assets/banner.svg" width="100%" alt="Kiarash Habibi — Backend Developer, Go, Cybersecurity"/>
 
-I enjoy building software projects, exploring Linux, backend systems,
-and learning modern software engineering practices.
+<br><br>
 
-## 🛠 Tech Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+secure+backend+systems+in+Go;Exploring+offensive+security+%26+bug+bounty;Linux+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
+</a>
 
-### Languages
-- C++
-- Go
-- JavaScript (basic)
+<br><br>
 
-### Tools & Technologies
-- Linux
-- Git
-- CMake
-- raylib
-- Echo (Go)
+<a href="https://www.linkedin.com/in/kiarashhabibi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/kiarash86">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
 
-## 🚀 Featured Projects
+<br><br>
 
-### Unmatched — Card Game Engine
-A C++17 implementation of the Unmatched board game.
+<img src="https://komarev.com/ghpvc/?username=kiarash86&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
-Tech:
-`C++17` `raylib` `CMake` `JSON`
+</div>
 
-Repository:
-[Unmatched](https://github.com/kiarash86/unmatched)
+---
 
-## 📚 Currently Learning
+## About Me
 
-- Go Backend Development
-- Networking
-- System Design
+I'm a Computer Engineering student passionate about backend development, Linux and cybersecurity.
+My primary focus is building secure backend systems with Go while continuously improving my web security and bug bounty skills.
+I enjoy understanding how systems work, finding vulnerabilities and writing clean, maintainable software.
 
-## 📫 Contact
+---
 
-[LinkedIn](www.linkedin.com/in/kiarashhabibi)
+## Current Focus
 
-<!--
-**kiarash86/kiarash86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Backend Development with Go
+- 🛡️ Web Security
+- 🎯 Bug Bounty
+- 🐧 Linux
+- 🏗️ System Design
+- 🔐 Secure Software Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Primary**
+
+<p>
+<img src="https://skillicons.dev/icons?i=go"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+</p>
+
+**Secondary**
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=nginx"/>
+</p>
+
+---
+
+## Security
+
+- OWASP Top 10
+- Web Security & Bug Bounty
+- Hack The Box Academy
+- Linux Privilege Escalation
+- Network Security Fundamentals
+
+<p align="center">
+<img src="https://www.hackthebox.eu/badge/image/YOUR_HTB_ID" height="60"/>
+</p>
+
+> Replace `YOUR_HTB_ID` in the badge link above with your HackTheBox profile ID once you have public activity to show.
+
+---
+
+## Featured Projects
+
+### 🌐 HTTP Server (Go)
+High-performance HTTP server built using Go standard library.
+
+### 🔗 REST API
+RESTful backend application with authentication and clean architecture.
+
+### 🎲 UNMATCHED
+Fantasy strategy game written in C++.
+
+### 📝 Bug Bounty Write-ups
+Coming soon...
+
+---
+
+## Currently Learning
+
+- Go Concurrency
+- Backend Architecture
+- Bug Bounty
+- Linux Internals
+- Web Application Security
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiarash86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarash86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kiarash86&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kiarash86&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiarash86&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+<div align="center">
+
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/kiarashhabibi">LinkedIn</a>
+•
+<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+•
+<a href="https://github.com/kiarash86">GitHub</a>
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kiarash86/kiarash86/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
