@@ -69,6 +69,10 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 <img src="https://skillicons.dev/icons?i=nginx"/>
 </p>
 
+<p align="center">
+<img src="./assets/tech-float.svg" width="100%" alt="animated tech stack"/>
+</p>
+
 ---
 
 ## Security
