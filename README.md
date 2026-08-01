@@ -33,22 +33,20 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="200" valign="top">
-<img src="https://avatars.githubusercontent.com/u/87567829?v=4" width="180" style="border-radius:10px"/>
-</td>
-<td valign="top">
-
 I'm a Computer Engineering student passionate about backend development, Linux and cybersecurity.
 My primary focus is building secure backend systems with Go while continuously improving my web security and bug bounty skills.
 I enjoy understanding how systems work, finding vulnerabilities and writing clean, maintainable software.
 
-**Current focus:** Backend Development with Go · Web Security · Bug Bounty · Linux · System Design · Secure Software Engineering
+---
 
-</td>
-</tr>
-</table>
+## Current Focus
+
+- 🔧 Backend Development with Go
+- 🛡️ Web Security
+- 🎯 Bug Bounty
+- 🐧 Linux
+- 🏗️ System Design
+- 🔐 Secure Software Engineering
 
 ---
 
@@ -91,17 +89,17 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 
 ## Featured Projects
 
-<p align="center">
-<a href="https://github.com/kiarash86/unmatched">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=kiarash86&repo=unmatched&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-</p>
+### 🌐 HTTP Server (Go)
+High-performance HTTP server built using Go standard library.
 
-**In progress / not public yet**
+### 🔗 REST API
+RESTful backend application with authentication and clean architecture.
 
-- 🌐 **HTTP Server (Go)** — high-performance HTTP server built using the Go standard library
-- 🔗 **REST API** — RESTful backend application with authentication and clean architecture
-- 📝 **Bug Bounty Write-ups** — coming soon
+### 🎲 UNMATCHED
+Fantasy strategy game written in C++.
+
+### 📝 Bug Bounty Write-ups
+Coming soon...
 
 ---
 
