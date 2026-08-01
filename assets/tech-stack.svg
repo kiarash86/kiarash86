@@ -1,0 +1,109 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accentV" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3FB950"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3FB950"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#0D1117"/>
+
+  <!-- terminal prompt header -->
+  <text x="64" y="56" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="19" fill="#3FB950">
+    kiarash@dev<tspan fill="#8B949E">:~$</tspan> cat stack.yaml
+  </text>
+
+  <!-- PRIMARY label -->
+  <text x="64" y="104" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="16" fill="#58A6FF" letter-spacing="2">PRIMARY</text>
+  <rect x="64" y="112" width="60" height="2" fill="url(#accentH)"/>
+
+  <!-- ===== PRIMARY ROW (Go, Linux, Git) ===== -->
+  <!-- Go -->
+  <g transform="translate(64, 132)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <g transform="translate(22, 20)" stroke="#3FB950" stroke-width="2" fill="none">
+      <polygon points="18,2 32,10 32,26 18,34 4,26 4,10" />
+      <circle cx="18" cy="18" r="3" fill="#3FB950" stroke="none"/>
+    </g>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Go</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">backend runtime</text>
+  </g>
+
+  <!-- Linux -->
+  <g transform="translate(258, 132)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="22" y="42" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="20" font-weight="700" fill="#58A6FF">&gt;_</text>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Linux</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">daily driver</text>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(452, 132)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <g transform="translate(20, 16)" stroke="#3FB950" stroke-width="2" fill="none">
+      <line x1="8" y1="4" x2="8" y2="32"/>
+      <path d="M8,18 C8,26 16,26 16,26 L24,26" />
+      <circle cx="8" cy="4" r="3" fill="#3FB950" stroke="none"/>
+      <circle cx="8" cy="32" r="3" fill="#3FB950" stroke="none"/>
+      <circle cx="24" cy="26" r="3" fill="#58A6FF" stroke="none"/>
+    </g>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Git</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">version control</text>
+  </g>
+
+  <!-- SECONDARY label -->
+  <text x="64" y="272" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="16" fill="#3FB950" letter-spacing="2">SECONDARY</text>
+  <rect x="64" y="280" width="80" height="2" fill="url(#accentH)"/>
+
+  <!-- ===== SECONDARY ROW (C++, Docker, PostgreSQL, Nginx) ===== -->
+  <!-- C++ -->
+  <g transform="translate(64, 300)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="20" y="42" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="20" font-weight="700" fill="#58A6FF">&lt;/&gt;</text>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">C++</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">systems &amp; games</text>
+  </g>
+
+  <!-- Docker -->
+  <g transform="translate(258, 300)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <g transform="translate(20, 16)" fill="none" stroke="#3FB950" stroke-width="2">
+      <rect x="0" y="18" width="30" height="8" rx="2"/>
+      <rect x="4" y="9" width="22" height="8" rx="2"/>
+      <rect x="8" y="0" width="14" height="8" rx="2"/>
+    </g>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Docker</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">containers</text>
+  </g>
+
+  <!-- PostgreSQL -->
+  <g transform="translate(452, 300)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <g transform="translate(24, 14)" fill="none" stroke="#58A6FF" stroke-width="2">
+      <ellipse cx="12" cy="6" rx="12" ry="5"/>
+      <path d="M0,6 L0,26 C0,29 6,31 12,31 C18,31 24,29 24,26 L24,6"/>
+      <path d="M0,16 C0,19 6,21 12,21 C18,21 24,19 24,16" />
+    </g>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Postgres</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">database</text>
+  </g>
+
+  <!-- Network -->
+  <g transform="translate(646, 300)">
+    <rect width="170" height="94" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <g transform="translate(22, 14)" fill="none" stroke="#3FB950" stroke-width="2">
+      <line x1="15" y1="6" x2="4" y2="26"/>
+      <line x1="15" y1="6" x2="26" y2="26"/>
+      <line x1="4" y1="26" x2="26" y2="26"/>
+      <circle cx="15" cy="6" r="4" fill="#3FB950" stroke="none"/>
+      <circle cx="4" cy="26" r="4" fill="#58A6FF" stroke="none"/>
+      <circle cx="26" cy="26" r="4" fill="#58A6FF" stroke="none"/>
+    </g>
+    <text x="66" y="40" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Network</text>
+    <text x="22" y="72" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#6E7681">networking</text>
+  </g>
+</svg>
