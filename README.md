@@ -57,45 +57,29 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 <td valign="top" width="50%">
 
 **Languages & Runtime**
-<br>
-Go &nbsp;`████████████████░░░░`&nbsp; 80%
-<br>
-C++ &nbsp;`█████████████░░░░░░░`&nbsp; 65%
+
+<img src="https://skillicons.dev/icons?i=go,cpp"/>
 
 **Databases & Infra**
-<br>
-Linux &nbsp;`█████████████████░░░`&nbsp; 85%
-<br>
-PostgreSQL &nbsp;`██████████████░░░░░░`&nbsp; 70%
-<br>
-Docker &nbsp;`█████████████░░░░░░░`&nbsp; 65%
-<br>
-Nginx &nbsp;`████████████░░░░░░░░`&nbsp; 60%
+
+<img src="https://skillicons.dev/icons?i=linux,postgres,docker,nginx"/>
 
 </td>
 <td valign="top" width="50%">
 
 **Tools**
-<br>
-Git &nbsp;`███████████████░░░░░`&nbsp; 75%
 
-**Security Tools**
-<br>
-Nmap &nbsp;`████████████░░░░░░░░`&nbsp; 60%
-<br>
-Wireshark &nbsp;`███████████░░░░░░░░░`&nbsp; 55%
-<br>
-Burp Suite &nbsp;`██████████░░░░░░░░░░`&nbsp; 50%
-<br>
-Metasploit &nbsp;`████████░░░░░░░░░░░░`&nbsp; 40%
+<img src="https://skillicons.dev/icons?i=git"/>
+
+**Security**
+
+<img src="https://img.shields.io/badge/Nmap-2C5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-2C5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-2C5364?style=flat-square"/>
 
 </td>
 </tr>
 </table>
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,linux,git,cpp,docker,postgres,nginx"/>
-</p>
 
 ---
 
