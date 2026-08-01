@@ -116,7 +116,7 @@ Coming soon...
 ---
 
 <p align="center">
-<img src="./assets/terminal.svg" width="100%" alt="animated terminal"/>
+<img src="./assets/radar-scan.svg" width="100%" alt="animated port scan"/>
 </p>
 
 ## GitHub Stats
