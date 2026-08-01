@@ -80,10 +80,9 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 - Network Security Fundamentals
 
 <p align="center">
-<img src="https://www.hackthebox.eu/badge/image/@dreamListener" height="60"/>
+<img src="https://profile.hackthebox.com/profile/019fbd8d-6fc9-70c4-a77a-c1efc4f334bc" height="60"/>
 </p>
 
-> Replace `YOUR_HTB_ID` in the badge link above with your HackTheBox profile ID once you have public activity to show.
 
 ---
 
