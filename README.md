@@ -13,13 +13,13 @@
 <a href="https://www.linkedin.com/in/kiarashhabibi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kiarash.h.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/kiarash86">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+<a href="https://profile.hackthebox.com/profile/019fbd8d-6fc9-70c4-a77a-c1efc4f334bc">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
@@ -31,22 +31,18 @@
 
 ---
 
-## About Me
+## Breaking systems down to understand how they really work
 
-I'm a Computer Engineering student passionate about backend development, Linux and cybersecurity.
-My primary focus is building secure backend systems with Go while continuously improving my web security and bug bounty skills.
-I enjoy understanding how systems work, finding vulnerabilities and writing clean, maintainable software.
+I'm Kiarash Habibi, a Computer Engineering student focused on backend development in Go and offensive security.
+My sweet spot is the space between building and breaking — writing clean backend systems, then stepping back to look at them the way an attacker would.
 
 ---
 
-## Current Focus
+## What I'm focused on
 
 - 🔧 Backend Development with Go
-- 🛡️ Web Security
-- 🎯 Bug Bounty
+- 🏗️ System Design & Clean Architecture
 - 🐧 Linux
-- 🏗️ System Design
-- 🔐 Secure Software Engineering
 
 ---
 
@@ -60,14 +56,14 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 
 ## Security
 
-- OWASP Top 10
-- Web Security & Bug Bounty
-- Hack The Box Academy
-- Linux Privilege Escalation
-- Network Security Fundamentals
+- 🛡️ OWASP Top 10
+- 🎯 Bug Bounty & Web Security
+- 📦 Hack The Box Academy
+- 🔓 Linux Privilege Escalation
+- 🌐 Network Security Fundamentals
 
 <p align="center">
-<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+<a href="https://profile.hackthebox.com/profile/019fbd8d-6fc9-70c4-a77a-c1efc4f334bc">
 <img src="https://img.shields.io/badge/Hack%20The%20Box%20Academy-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 </p>
@@ -76,27 +72,11 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 
 ## Featured Projects
 
-### 🌐 HTTP Server (Go)
-High-performance HTTP server built using Go standard library.
+### 📝 [Marginalia — Weblog App](https://github.com/kiarash86/weblog_goraz)
+A shared weblog built with **Go**, **Echo**, and **PostgreSQL**. Users can post public or private entries, share private entries with specific people, and leave comments. JWT-based auth, image uploads, and a vanilla JS frontend — no framework, no build step.
 
-### 🔗 REST API
-RESTful backend application with authentication and clean architecture.
-
-### 🎲 UNMATCHED
-Fantasy strategy game written in C++.
-
-### 📝 Bug Bounty Write-ups
-Coming soon...
-
----
-
-## Currently Learning
-
-- Go Concurrency
-- Backend Architecture
-- Bug Bounty
-- Linux Internals
-- Web Application Security
+### 🎲 [Unmatched — Card Game Engine](https://github.com/kiarash86/unmatched)
+A **C++17**, data-driven digital implementation of the *Unmatched* board game, built with raylib. New heroes, cards, and maps are added entirely through JSON — no C++ changes required. Uses Factory and Observer patterns, plus a custom exception hierarchy so failures are caught and reported with context instead of crashing.
 
 ---
 
@@ -116,10 +96,6 @@ Coming soon...
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=kiarash86&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiarash86&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
@@ -131,7 +107,7 @@ Coming soon...
 
 <a href="https://www.linkedin.com/in/kiarashhabibi">LinkedIn</a>
 •
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+<a href="mailto:kiarash.h.dev@gmail.com">Email</a>
 •
 <a href="https://github.com/kiarash86">GitHub</a>
 
