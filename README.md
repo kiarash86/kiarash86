@@ -52,25 +52,49 @@ I enjoy understanding how systems work, finding vulnerabilities and writing clea
 
 ## Tech Stack
 
-**Primary**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Runtime**
+<br>
+Go &nbsp;`████████████████░░░░`&nbsp; 80%
+<br>
+C++ &nbsp;`█████████████░░░░░░░`&nbsp; 65%
+
+**Databases & Infra**
+<br>
+Linux &nbsp;`█████████████████░░░`&nbsp; 85%
+<br>
+PostgreSQL &nbsp;`██████████████░░░░░░`&nbsp; 70%
+<br>
+Docker &nbsp;`█████████████░░░░░░░`&nbsp; 65%
+<br>
+Nginx &nbsp;`████████████░░░░░░░░`&nbsp; 60%
+
+</td>
+<td valign="top" width="50%">
+
+**Tools**
+<br>
+Git &nbsp;`███████████████░░░░░`&nbsp; 75%
+
+**Security Tools**
+<br>
+Nmap &nbsp;`████████████░░░░░░░░`&nbsp; 60%
+<br>
+Wireshark &nbsp;`███████████░░░░░░░░░`&nbsp; 55%
+<br>
+Burp Suite &nbsp;`██████████░░░░░░░░░░`&nbsp; 50%
+<br>
+Metasploit &nbsp;`████████░░░░░░░░░░░░`&nbsp; 40%
+
+</td>
+</tr>
+</table>
 
 <p>
-<img src="https://skillicons.dev/icons?i=go"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-</p>
-
-**Secondary**
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=nginx"/>
-</p>
-
-<p align="center">
-<img src="./assets/tech-float.svg" width="100%" alt="animated tech stack"/>
+<img src="https://skillicons.dev/icons?i=go,linux,git,cpp,docker,postgres,nginx"/>
 </p>
 
 ---
