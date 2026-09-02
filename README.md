@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Kiarash Habibi — Backend Developer, Go, Cybersecurity"/>
-d
+
 <br><br>
 
 <a href="https://git.io/typing-svg">
