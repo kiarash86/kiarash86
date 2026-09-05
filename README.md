@@ -72,6 +72,9 @@ My sweet spot is the space between building and breaking — writing clean backe
 
 ## Featured Projects
 
+### 🚀 [Mitra — Organizational Management & Collaboration Platform](https://github.com/kiarash86/mitra)
+A unified platform for **project management, tasks, teams, and real-time chat**, with a **Go/Gin backend**, Flutter mobile app, and React/Tauri web & desktop clients.
+
 ### 📝 [Marginalia — Weblog App](https://github.com/kiarash86/weblog_goraz)
 A shared weblog built with **Go**, **Echo**, and **PostgreSQL**. Users can post public or private entries, share private entries with specific people, and leave comments. JWT-based auth, image uploads, and a vanilla JS frontend — no framework, no build step.
 
