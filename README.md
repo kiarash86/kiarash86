@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Kiarash Habibi — Backend Developer, Go, Cybersecurity"/>
+<img src="./assets/banner.svg" width="100%" alt="Kiarash Habibi — Backend Developer, Go, C++, Linux"/>
 
 <br><br>
-   
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+secure+backend+systems+in+Go;Exploring+offensive+security+%26+bug+bounty;Linux+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Go;Learning+systems+by+building+them;Go+%7C+C%2B%2B+%7C+Linux+%7C+PostgreSQL" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -31,36 +31,39 @@
 
 ---
 
-## Breaking systems down to understand how they really work
+## About Me
 
-I'm Kiarash Habibi, a Computer Engineering student focused on backend development in Go and offensive security.
-My sweet spot is the space between building and breaking — writing clean backend systems, then stepping back to look at them the way an attacker would.
+I'm **Kiarash Habibi**, a Computer Engineering student interested in backend development and systems programming.
 
----
+I enjoy building things from the ground up, understanding how they work under the hood, and gradually turning prototypes into clean, maintainable software.
 
-## What I'm focused on
+### Currently focused on
 
-- 🔧 Backend Development with Go
-- 🏗️ System Design & Clean Architecture
-- 🐧 Linux
+- 🔧 **Backend Development** — Go, REST APIs, authentication, databases
+- 🧩 **Software Design** — clean architecture, modularity, and maintainability
+- ⚙️ **Systems Programming** — C++ and understanding low-level concepts
+- 🐧 **Linux** — development environment, tooling, and system fundamentals
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — Go, Linux, Git, C++, Docker, Postgres, Networking"/>
+<img src="./assets/tech-stack.svg" width="100%" alt="Go, C++, Linux, Git, Docker, PostgreSQL, Networking"/>
 </p>
 
 ---
 
-## Security
+## Exploring Security
 
-- 🛡️ OWASP Top 10
-- 🎯 Bug Bounty & Web Security
-- 📦 Hack The Box Academy
-- 🔓 Linux Privilege Escalation
-- 🌐 Network Security Fundamentals
+I'm also exploring **web security and offensive security fundamentals** alongside software development.
+
+- 🌐 Web Security & OWASP Top 10
+- 🧪 Hack The Box Academy
+- 🐧 Linux Privilege Escalation
+- 🔐 Network Security Fundamentals
+
+This is an area I'm **actively learning**, rather than presenting as an established specialization.
 
 <p align="center">
 <a href="https://profile.hackthebox.com/profile/019fbd8d-6fc9-70c4-a77a-c1efc4f334bc">
@@ -73,13 +76,16 @@ My sweet spot is the space between building and breaking — writing clean backe
 ## Featured Projects
 
 ### 🚀 [Mitra — Organizational Management & Collaboration Platform](https://github.com/kiarash86/mitra)
-A unified platform for **project management, tasks, teams, and real-time chat**, with a **Go/Gin backend**, Flutter mobile app, and React/Tauri web & desktop clients.
+
+A unified platform for **projects, tasks, teams, and real-time chat**, with a **Go/Gin backend**, Flutter mobile app, and React/Tauri web & desktop clients.
 
 ### 📝 [Marginalia — Weblog App](https://github.com/kiarash86/weblog_goraz)
-A shared weblog built with **Go**, **Echo**, and **PostgreSQL**. Users can post public or private entries, share private entries with specific people, and leave comments. JWT-based auth, image uploads, and a vanilla JS frontend — no framework, no build step.
+
+A weblog built with **Go, Echo, and PostgreSQL** featuring public and private posts, sharing, comments, JWT authentication, and image uploads. The frontend uses vanilla JavaScript with no framework or build step.
 
 ### 🎲 [Unmatched — Card Game Engine](https://github.com/kiarash86/unmatched)
-A **C++17**, data-driven digital implementation of the *Unmatched* board game, built with raylib. New heroes, cards, and maps are added entirely through JSON — no C++ changes required. Uses Factory and Observer patterns, plus a custom exception hierarchy so failures are caught and reported with context instead of crashing.
+
+A **C++17** data-driven implementation of the *Unmatched* board game, built with raylib. Heroes, cards, and maps are defined through JSON, with Factory and Observer patterns used to keep the engine extensible.
 
 ---
 
@@ -106,7 +112,7 @@ A **C++17**, data-driven digital implementation of the *Unmatched* board game, b
 
 <div align="center">
 
-### Connect With Me
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/kiarashhabibi">LinkedIn</a>
 •
