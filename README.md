@@ -4,6 +4,7 @@
 
 <br><br>
 
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Go;Learning+systems+by+building+them;Go+%7C+C%2B%2B+%7C+Linux+%7C+PostgreSQL" alt="Typing SVG" />
 </a>
